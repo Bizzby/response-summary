@@ -1,4 +1,8 @@
 {
-  "name": "response-summary",
-  "version": "1.0.0"
+  "name": "bizzby-response-summary",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bizzby/response-summary"
+  }
 }

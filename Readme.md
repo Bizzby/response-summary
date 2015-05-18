@@ -5,7 +5,7 @@
 ## Example
 
 ```js
-var summary = require('response-summary');
+var summary = require('bizzby-response-summary');
 
 var app = express();
 app.get(function (req, res, next) {

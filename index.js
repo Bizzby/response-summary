@@ -48,7 +48,7 @@ exports.token = function(name, fn) {
  */
 
 exports.token('status', function (req, res)  {
-  return res.headerSent ? res.statusCode : null;
+  return res.statusCode;
 });
 
 /**
